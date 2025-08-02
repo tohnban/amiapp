@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721767673970",
+    "project_id": "projecto-ami",
+    "storage_bucket": "projecto-ami.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721767673970:android:11d893c7b9e04b2d4452eb",
+        "android_client_info": {
+          "package_name": "com.example.ami_projecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SrDmVLNyJTQWAkQELkFG3TWNpOocvw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
