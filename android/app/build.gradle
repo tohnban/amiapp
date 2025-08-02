@@ -22,7 +22,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.ami_projecto"
-        minSdkVersion 21
+        minSdkVersion 23
         targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
